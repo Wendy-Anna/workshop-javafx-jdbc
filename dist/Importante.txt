@@ -1,0 +1,10 @@
+#Coisas necessárias para instalação no Cliente!
+
+	*Pack files
+		o JAR file
+		o db.properties
+		o MySQL Connector
+		o JavaFX SDK
+		o Java SDK
+
+ 
